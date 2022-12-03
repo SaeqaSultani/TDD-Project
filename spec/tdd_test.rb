@@ -1,9 +1,6 @@
 require './solver'
 
 describe Solver do
-  it 'should return 1 for 0' do
-    Solver.new.factorial(0).should == 1
-  end
   it 'should return 24 for 4 ' do
     Solver.new.factorial(4).should == 24
   end

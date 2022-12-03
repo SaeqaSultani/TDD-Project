@@ -56,11 +56,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [OOP School Library] <a name="about-project"></a>
+# 📖 [TDD Project] <a name="about-project"></a>
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-**[OOP School Library]** i is a project that build with Ruby and in this project you will be able that add new students & teachers and books and can see the list of them and also will be able to save records of who borrowed a given book and when and all of this  built in a beautiful and well-organized way!
+**[TDD Project]** In this project, we implemented a class with some methods, but we did it by doing test-driven development (TDD). Remember that the idea is to write tests first and then the code. This will be verified in our commits history, so it is important to use the proper sequence
 
 ## 🛠 Built With <a name="built-with">Ruby</a>
 <!-- ### Tech Stack <a name="tech-stack"></a> -->
@@ -100,7 +100,7 @@ Clone this repository to your desired folder:
 ```sh
   cd my-folder
 
-  git clone git@github.com:SaeqaSultani/OOP-School-Library.git
+  git clone git@github.com:SaeqaSultani/TDD-Project.git
  
 ```
 
@@ -109,7 +109,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd OOP-school-library
+  cd TDD-Project
   gem install
 ```
 
@@ -142,6 +142,18 @@ Example:
 - Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
 - LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
 
+👤 **SaeqaSultani**
+
+- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
+- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
+
+👤 **SaeqaSultani**
+
+- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
+- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -154,7 +166,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/OOP-School-Library/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/TDD-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,6 +209,6 @@ I would like to thank...
 This project is [MIT](./LICENSE) licensed.
 
 
-_NOTE: we recommend using the [MIT license](https://github.com/SaeqaSultani/OOP-School-Library/blob/ui/MIT.md) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+_NOTE: we recommend using the [MIT license](https://github.com/SaeqaSultani/TDD-Project/blob/tdd-feature/MIT.md) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
