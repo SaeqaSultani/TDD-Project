@@ -142,17 +142,17 @@ Example:
 - Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
 - LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
 
-👤 **SaeqaSultani**
+👤 **Marvellous Ibironke**
 
-- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
-- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
-- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
+- GitHub: [SaeqaSultani](https://github.com/Tommymarvel)
+- Twitter: [SaeqaSultani](https://twitter.com/tomiwa_ibironke)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/marvellous-ibironke-54026b231/)
 
-👤 **SaeqaSultani**
+👤 **Eva Buccur**
 
-- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
-- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
-- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
+- GitHub: [SaeqaSultani](https://github.com/BucurEva87)
+- Twitter: [SaeqaSultani](https://twitter.com/BucurEva)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/eva-lavinia-bucur/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
